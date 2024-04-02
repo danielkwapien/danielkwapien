@@ -11,6 +11,10 @@
   </a>
 </div>
 
+<h2> About me </h2>
+<hr>
+- 📚 I am a Data Science and Engineering student at UC3M
+
 
 
 <!--
