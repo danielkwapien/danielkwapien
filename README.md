@@ -7,7 +7,7 @@
 
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGF1aWNlMTljOTY5cXM5ZHRjeWM2bHAyd2toOTNoOWpqbmhtY2ppNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MP4Za7rK3uOPIxIh27/giphy.gif" width="30" />*I'm a third year Data Science and Engineering student at UC3M.*
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ6c2tkZmhsZjNic2F5M2FwbDN4bWc2ZXF6OGs0b3B4NzR3MW9ubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRYYF1r9ucXVncvaqd/giphy.gif" width="30" />*My focus is set on: `Machine Learning`, `Deep Learning`, `Natural Language Processing`, `Web Development` and `Data Science`.*
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l1dHN5c3p0MmViNHF3YjFlNGMxdGJuNWdubXVjZ3VvYmdidW9wMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MZJrNkGVY7BGDH8GwU/giphy.gif" width="30" />*I'm always open to new opportunities and projects, feel free to reach me out.*
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l1dHN5c3p0MmViNHF3YjFlNGMxdGJuNWdubXVjZ3VvYmdidW9wMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MZJrNkGVY7BGDH8GwU/giphy.gif" width="30" />*I'm always open to new opportunities and projects, feel free to reach out to me.*
 
 <div align="left">
   <a href="https://www.linkedin.com/in/daniel-kwapien/">
