@@ -6,7 +6,7 @@
 </h1>
 
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGF1aWNlMTljOTY5cXM5ZHRjeWM2bHAyd2toOTNoOWpqbmhtY2ppNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MP4Za7rK3uOPIxIh27/giphy.gif" width="30" />*I'm a third year Data Science and Engineering student at UC3M.*
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ6c2tkZmhsZjNic2F5M2FwbDN4bWc2ZXF6OGs0b3B4NzR3MW9ubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRYYF1r9ucXVncvaqd/giphy.gif" width="30" />*My focus is set on: `Machine Learning`, `Deep Learning`, `Natural Language Processing`, `Web Development` and `Data Science`.*
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ6c2tkZmhsZjNic2F5M2FwbDN4bWc2ZXF6OGs0b3B4NzR3MW9ubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRYYF1r9ucXVncvaqd/giphy.gif" width="30" />*My focus is set on: `Machine Learning`, `Deep Learning`, `Natural Language Processing`, `Data Science` and `Web Development`*
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l1dHN5c3p0MmViNHF3YjFlNGMxdGJuNWdubXVjZ3VvYmdidW9wMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MZJrNkGVY7BGDH8GwU/giphy.gif" width="30" />*I'm always open to new opportunities and projects, feel free to reach out to me.*
 
 <div align="left">
@@ -51,9 +51,6 @@
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="40" alt="js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" alt="ts"/>
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="40" alt="tailwindcss"/>
- 
-  
-  
   <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" width="50" alt="gcp"/>
   
   
