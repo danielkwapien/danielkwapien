@@ -1,9 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=danielkwapien.danielkwapien" />
+
 
 <h1 align="left">
   Hi! I'm Dani <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40">
 </h1>
 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHM2NnljZmRuNzB2eWU4a3M1a2NucDY4ZWRyM2R5M3hod3dxeDhlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IauL6LvGNlT3ffhcqq/giphy.gif" width="30" /> **Data & AI Engineer at Devoteam G Cloud**  
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGF1aWNlMTljOTY5cXM5ZHRjeWM2bHAyd2toOTNoOWpqbmhtY2ppNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MP4Za7rK3uOPIxIh27/giphy.gif" width="30" /> **Senior Year Data Science and Engineering student at UC3M.**  
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ6c2tkZmhsZjNic2F5M2FwbDN4bWc2ZXF6OGs0b3B4NzR3MW9ubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRYYF1r9ucXVncvaqd/giphy.gif" width="30" /> **Focused on**: `Machine Learning`, `Deep Learning`, `Data Science`, `Data Engineering` and `Web Development`.  
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l1dHN5c3p0MmViNHF3YjFlNGMxdGJuNWdubXVjZ3VvYmdidW9wMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MZJrNkGVY7BGDH8GwU/giphy.gif" width="30" /> **Always open to new opportunities and collaborations!**
