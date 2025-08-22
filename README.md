@@ -5,7 +5,7 @@
 
 - 💻 AI Engineer & Presales Engineer [@Devoteam G Cloud](https://gcloud.devoteam.com/).
 
-- 📚 Master Student in Applied and Computational Math [@UC3M](https://www.uc3m.es/grado/datos).
+- 📚 Master Student in Applied and Computational Math [@UC3M]([https://www.uc3m.es/grado/datos](https://www.uc3m.es/master/matematica-aplicada)).
 
 - 🎧 Focused on: `Machine Learning`, `Data Science`, `Data Engineering` and `Web Development`.
 
