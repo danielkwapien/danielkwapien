@@ -3,13 +3,7 @@
 
 ## Hi! I'm Dani <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40">
 
-- 💻 AI Engineer & Presales Engineer [@Devoteam G Cloud](https://gcloud.devoteam.com/).
-
-- 📚 Master Student in Applied and Computational Math [@UC3M](https://www.uc3m.es/master/matematica-aplicada).
-
-- 🎧 Focused on: `Machine Learning`, `Data Science`, `Data Engineering` and `Web Development`.
-
-- 🎮 I enjoy lifting weights, reading and playing videogames.
+- 💻 Founder
 
 <div align="center">
   <a href="https://www.linkedin.com/in/danielkwapien/">
